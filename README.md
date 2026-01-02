@@ -1,4 +1,4 @@
-# GitHub-finla-project
+# GitHub-final-project
 
 # This is the README.md file for the **github-final-project**
 
